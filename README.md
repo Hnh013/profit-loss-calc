@@ -2,7 +2,7 @@
 ### A simple vanilla JS app that calculates that if you had a profit or loss in your stocks    
 
 The app is made in vanilla JS so there is no need to install the dependencies    
-Live App at :    
+Live App at :  https://profit-loss-calc-fpvh7m0rd-hnh013.vercel.app/    
 Pre-requisites : A code editor    
 Steps to run the app at your local machine    
 
